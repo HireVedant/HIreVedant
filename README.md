@@ -1,33 +1,39 @@
 # Hi, I'm Vedant Hire 👋
 
-### Computer Engineering Undergraduate · Cybersecurity Enthusiast · Competitive Programmer · Full-Stack Developer
+<h3 align="center">
+Computer Engineering Undergraduate • Cybersecurity Enthusiast • Competitive Programmer • Full-Stack Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Aspiring+Security+Architect;Cybersecurity+%7C+Cloud+Security+%7C+Ethical+Hacking;Competitive+Programmer;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New" />
+</p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I'm a Computer Engineering student at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**.
+I'm a **Computer Engineering student** at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**.
 
-I'm passionate about **Cybersecurity**, **Competitive Programming**, and **Software Development**. I enjoy understanding how systems work under the hood instead of simply using frameworks. My goal is to become a **Security Architect**, combining Cloud Security, Penetration Testing, and Secure Software Development.
+I'm passionate about **Cybersecurity**, **Cloud Security**, **Competitive Programming**, and **Software Development**. My goal is to become a **Security Architect**, combining secure cloud infrastructure with offensive and defensive cybersecurity practices.
 
-I believe the best way to learn is by building projects. Whether it's developing web applications, solving DSA problems, or exploring cybersecurity labs, I'm always looking for opportunities to improve my skills.
+I enjoy understanding how systems work under the hood instead of simply using frameworks. Whether it's building projects, solving DSA problems, exploring Linux, or learning networking concepts, I'm always eager to improve my technical skills.
 
-Currently, I'm strengthening my fundamentals in **C++**, **Data Structures & Algorithms**, **Python**, and **Linux**, while building practical projects.
+I believe the best way to learn is by **building real-world projects** and continuously challenging myself.
 
 ---
 
 # 🚀 Currently Working On
 
-- 🌱 Learning Cybersecurity & Ethical Hacking
+- 🌍 EcoTrack AI – AI-powered Carbon Footprint Tracking Platform
+- 🔐 Learning Cybersecurity & Ethical Hacking
 - 💻 Solving Data Structures & Algorithms in C++
-- 🤖 Building AI-powered applications
-- 🌍 Developing **EcoTrack AI** – Carbon Footprint Tracking Platform
-- ☁️ Learning Cloud Security (AWS & Azure)
-- 🐧 Improving Linux and Networking Skills
+- ☁️ Exploring AWS & Cloud Security
+- 🐧 Strengthening Linux & Networking Fundamentals
+- 🤖 Building AI-powered Web Applications
 
 ---
 
-# 📚 Current Learning Roadmap
+# 🌱 Current Learning Roadmap
 
 | Area | Learning |
 |------|----------|
@@ -36,8 +42,8 @@ Currently, I'm strengthening my fundamentals in **C++**, **Data Structures & Alg
 | Cybersecurity | Web Security, Linux, Networking |
 | Cloud | AWS, Azure Security |
 | AI | LLM Integration & AI Applications |
-| Development | React, Firebase, Tailwind CSS |
-| Tools | Git, GitHub, VS Code |
+| Web Development | React, Firebase, Tailwind CSS |
+| Development Tools | Git, GitHub, VS Code |
 
 ---
 
@@ -45,7 +51,7 @@ Currently, I'm strengthening my fundamentals in **C++**, **Data Structures & Alg
 
 ## 🌍 EcoTrack AI
 
-An AI-powered Carbon Footprint Tracking Platform that helps users estimate their emissions, analyze environmental impact, and receive personalized recommendations for sustainable living.
+An AI-powered Carbon Footprint Tracking Platform that helps users calculate their carbon emissions, visualize environmental impact, and receive personalized sustainability recommendations.
 
 **Tech Stack**
 
@@ -55,14 +61,14 @@ An AI-powered Carbon Footprint Tracking Platform that helps users estimate their
 - Tailwind CSS
 - Chart.js
 
-🔗 Repository:
+🔗 **Repository**
 https://github.com/HireVedant/Carbon_Footprint
 
 ---
 
 ## 🤖 AI Aggregator
 
-A collection of useful AI tools integrated into a single platform for productivity and learning.
+A collection of useful AI tools integrated into a single platform for productivity, development, and learning.
 
 ---
 
@@ -80,69 +86,83 @@ A responsive Amazon-inspired frontend built for practicing modern web developmen
 
 # 🛠️ Tech Stack
 
-## Languages
-
-- C
-- C++
-- Python
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-
-## Frameworks & Libraries
-
-- React
-- Firebase
-- Tailwind CSS
-- Chart.js
-- Node.js
-
-## Cybersecurity
-
-- Linux
-- Burp Suite
-- Wireshark
-- Nmap
-- OWASP
-
-## Tools
-
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Linux Mint
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,firebase,tailwind,nodejs,git,github,linux,vscode,androidstudio,bash&perline=9"/>
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HireVedant&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HireVedant&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HireVedant&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HireVedant&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HireVedant&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=HireVedant&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HireVedant&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HireVedant&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 Coding Profiles
 
-- 💛 LeetCode
-- 💙 Codeforces
-- 🟢 HackerRank
+<p align="left">
 
-(Add your profile links)
+💛 **LeetCode:**  
+https://leetcode.com/u/HireVedant/
+
+💙 **Codechef:**  
+https://www.codechef.com/users/vedant_hire
+
+🟠 **Code360 (Coding Ninjas)**  
+https://www.naukri.com/code360/profile/VedantHire
+
+🟢 **HackerRank:**  
+https://www.hackerrank.com/profile/vedanthire5050
+
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-- LinkedIn: (Add your profile)
-- Email: (Add your email)
+<p align="left">
+
+💼 LinkedIn  
+
+www.linkedin.com/in/vedant-hire-521571389
+
+📧 Email  
+vedanthire5050@gmail.com
+
+</p>
 
 ---
 
-## 💡 Motto
+# 💡 Quote
 
 > **"Code. Secure. Learn. Repeat."**
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HireVedant&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
