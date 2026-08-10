@@ -1,168 +1,223 @@
-# Hi, I'm Vedant Hire 👋
+<div align="center">
 
-<h3 align="center">
-Computer Engineering Undergraduate • Cybersecurity Enthusiast • Competitive Programmer • Full-Stack Developer
-</h3>
+# Vedant Hire
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Aspiring+Security+Architect;Cybersecurity+%7C+Cloud+Security+%7C+Ethical+Hacking;Competitive+Programmer;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New" />
-</p>
+**Computer Engineering Undergraduate · Cybersecurity Enthusiast · Competitive Programmer · Software Developer**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=760&lines=Cybersecurity+Enthusiast;Competitive+Programming+%26+DSA;C%2B%2B+%26+Software+Development;Exploring+Cloud+Security;Learning+Linux+%26+Networking;Building+Practical+Projects" alt="Typing Animation" />
 
-# 👋 About Me
+<br>
 
-I'm a **Computer Engineering student** at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**.
+<img src="https://komarev.com/ghpvc/?username=HireVedant&label=Profile+Views&style=flat-square" alt="Profile Views" />
 
-I'm passionate about **Cybersecurity**, **Cloud Security**, **Competitive Programming**, and **Software Development**. My goal is to become a **Security Architect**, combining secure cloud infrastructure with offensive and defensive cybersecurity practices.
+<br>
 
-I enjoy understanding how systems work under the hood instead of simply using frameworks. Whether it's building projects, solving DSA problems, exploring Linux, or learning networking concepts, I'm always eager to improve my technical skills.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-hire-521571389)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedanthire5050@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/HireVedant/)
 
-I believe the best way to learn is by **building real-world projects** and continuously challenging myself.
+</div>
 
 ---
 
-# 🚀 Currently Working On
+## About
 
-- 🌍 EcoTrack AI – AI-powered Carbon Footprint Tracking Platform
-- 🔐 Learning Cybersecurity & Ethical Hacking
-- 💻 Solving Data Structures & Algorithms in C++
-- ☁️ Exploring AWS & Cloud Security
-- 🐧 Strengthening Linux & Networking Fundamentals
-- 🤖 Building AI-powered Web Applications
+I'm a **Computer Engineering student at Pimpri Chinchwad College of Engineering (PCCOE), Pune**, with a primary interest in **Cybersecurity, Cloud Security, Competitive Programming, and Software Development**.
+
+My current focus is building strong foundations in **C++, Data Structures & Algorithms, Linux, networking, web security, and software engineering**, while gradually exploring cloud security and AI-powered applications.
+
+I prefer understanding how systems work internally rather than treating technologies as black boxes. I learn primarily through **building projects, solving problems, experimenting with technologies, and studying the concepts behind them**.
+
+My long-term goal is to work toward **Security Architecture**, combining secure software development, cloud infrastructure, networking, and practical cybersecurity.
 
 ---
 
-# 🌱 Current Learning Roadmap
+## Currently Working On
 
-| Area | Learning |
-|------|----------|
+- **EcoTrack AI** — AI-assisted carbon footprint tracking platform
+- **AI Web Security Scanner** — Exploring automated web security analysis
+- **Cybersecurity** — Web security and ethical hacking fundamentals
+- **C++ & DSA** — Data structures, algorithms, and competitive programming
+- **Linux & Networking** — Strengthening systems and networking fundamentals
+- **Cloud Security** — Exploring AWS and cloud security concepts
+- **AI Applications** — Building practical applications around modern AI tools
+
+---
+
+## Learning Roadmap
+
+| Area | Focus |
+|---|---|
 | Programming | Modern C++, Python |
-| Problem Solving | Data Structures & Algorithms |
-| Cybersecurity | Web Security, Linux, Networking |
-| Cloud | AWS, Azure Security |
-| AI | LLM Integration & AI Applications |
-| Web Development | React, Firebase, Tailwind CSS |
-| Development Tools | Git, GitHub, VS Code |
+| Problem Solving | Data Structures & Algorithms, Competitive Programming |
+| Cybersecurity | Web Security, Ethical Hacking, Security Fundamentals |
+| Systems | Linux, Networking, Operating Systems |
+| Cloud | AWS, Cloud Security |
+| AI | LLM Integration, AI Applications |
+| Web Development | React, TypeScript, Firebase, Tailwind CSS |
+| Software Engineering | Git, GitHub, Testing, Software Architecture |
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🌍 EcoTrack AI
+### EcoTrack AI
 
-An AI-powered Carbon Footprint Tracking Platform that helps users calculate their carbon emissions, visualize environmental impact, and receive personalized sustainability recommendations.
+An AI-assisted carbon footprint tracking platform designed to help users calculate emissions, visualize environmental impact, and receive sustainability recommendations.
 
-**Tech Stack**
+**Technology**
 
-- React
-- TypeScript
-- Firebase
-- Tailwind CSS
-- Chart.js
+`React` `TypeScript` `Firebase` `Tailwind CSS` `Chart.js`
 
-🔗 **Repository**
-https://github.com/HireVedant/Carbon_Footprint
+**Repository**
+
+[github.com/HireVedant/Carbon_Footprint](https://github.com/HireVedant/Carbon_Footprint)
 
 ---
 
-## 🤖 AI Aggregator
+### AI Web Security Scanner
 
-A collection of useful AI tools integrated into a single platform for productivity, development, and learning.
+A security-focused project exploring automated analysis of web applications and common web security issues.
 
----
+**Technology**
 
-## 💻 HTML/CSS/JavaScript Compiler
+`Python` `Web Security` `Security Automation`
 
-A browser-based code editor that allows users to write and instantly preview HTML, CSS, and JavaScript.
+**Repository**
 
----
-
-## 🛒 Amazon Clone
-
-A responsive Amazon-inspired frontend built for practicing modern web development.
+[github.com/HireVedant/AI-Web-Security-Scanner](https://github.com/HireVedant/AI-Web-Security-Scanner)
 
 ---
 
-# 🛠️ Tech Stack
+### AI Aggregator
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,firebase,tailwind,nodejs,git,github,linux,vscode,androidstudio,bash&perline=9"/>
-</p>
+A web platform bringing together AI-powered tools for productivity, development, and learning.
 
----
+**Focus**
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HireVedant&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HireVedant&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=HireVedant&theme=chartreuse-dark&hide_border=true" />
-</p>
+`AI Integration` `Web Development`
 
 ---
 
-# 🏆 GitHub Achievements
+### HTML / CSS / JavaScript Editor
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HireVedant&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+A browser-based development environment for writing HTML, CSS, and JavaScript with an integrated live preview.
 
----
+**Focus**
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HireVedant&theme=tokyo-night&hide_border=true"/>
-</p>
+`HTML` `CSS` `JavaScript` `Web Development`
 
 ---
 
-# 🏆 Coding Profiles
+### Amazon Clone
 
-<p align="left">
+A responsive Amazon-inspired frontend project built to practice modern web development, responsive layouts, and interface design.
 
-💛 **LeetCode:**  
-https://leetcode.com/u/HireVedant/
+**Focus**
 
-💙 **Codechef:**  
-https://www.codechef.com/users/vedant_hire
-
-🟠 **Code360 (Coding Ninjas)**  
-https://www.naukri.com/code360/profile/VedantHire
-
-🟢 **HackerRank:**  
-https://www.hackerrank.com/profile/vedanthire5050
-
-</p>
+`HTML` `CSS` `JavaScript` `Frontend Development`
 
 ---
 
-# 📫 Connect With Me
+## Technical Stack
 
-<p align="left">
+### Languages
 
-💼 LinkedIn  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-www.linkedin.com/in/vedant-hire-521571389
+### Web Development
 
-📧 Email  
-vedanthire5050@gmail.com
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</p>
+### Cybersecurity & Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+`Networking` `Web Security` `Security Fundamentals`
+
+### Cloud & Development Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 💡 Quote
+## GitHub Statistics
 
-> **"Code. Secure. Learn. Repeat."**
+<div align="center">
+
+<img
+src="https://github-readme-stats.shion.dev/api?username=HireVedant&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+height="165"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=HireVedant&theme=default&hide_border=true&layout=compact&langs_count=6"
+height="165"
+alt="Top Languages"
+/>
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HireVedant&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+## Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=HireVedant&theme=github-compact&hide_border=true&area=true"
+width="95%"
+alt="Vedant Hire's GitHub Contribution Activity"
+/>
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-HireVedant-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/HireVedant/)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-vedant__hire-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/vedant_hire)
+
+[![Code360](https://img.shields.io/badge/Code360-VedantHire-2F80ED?style=flat-square)](https://www.naukri.com/code360/profile/VedantHire)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-vedanthire5050-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vedanthire5050)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant_Hire-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-hire-521571389)
+
+[![Email](https://img.shields.io/badge/Email-vedanthire5050%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedanthire5050@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**Code. Secure. Learn. Repeat.**
+
+</div>
